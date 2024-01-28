@@ -14,9 +14,6 @@ const Footer = () => {
 }
 
 
-
-
-
 const App = () => {
     return <div className="main_app_container">
         <Header/>
