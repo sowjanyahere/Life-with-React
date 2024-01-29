@@ -88,3 +88,39 @@
 .res_card_main_con:hover {
     border: 1px solid #e0e00a; 
 }
+
+.res_full_details {
+    padding: 30px 40px;
+}
+.menu_list_here {
+    margin: 10px 20px;
+}
+.res_title_here {
+    margin-bottom: 20px;
+}
+
+.accordianCards {
+    margin-bottom: 30px;
+}
+
+.accordianCardsListMainCon {padding: 20px;}
+
+.accordianCardsList {
+    display: flex;
+    gap: 10%;
+}
+
+.accordianCardsListLeft {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.accordianCardsListRight {
+    width: 180px;
+    height: 180px;
+}
+
+.accordianCardsListRight img {
+    width: 100%;
+}
