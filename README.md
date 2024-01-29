@@ -1,4 +1,4 @@
-LIFE WITH REACT
+**LIFE WITH REACT**
 
 DOM property & method
 .innerHTML property replace the things to new one.
